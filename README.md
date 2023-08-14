@@ -16,7 +16,7 @@ ShopInja is a cross-platform mobile application built using the Flutter framewor
 - ...
 
 ## Screenshots
-For a full list of screenshots, refer to the **[ScreenShot](https://github.com/KiarashKiani79/ShopInja/tree/main/Screenshots)** folder.
+For a full list of screenshots, refer to the **[ScreenShot](https://github.com/KiarashKiani79/ShopInja/tree/main/ScreenShots)** folder.
 
 <div align="center">
     <img src="https://github.com/KiarashKiani79/ShopInja/blob/main/ScreenShots/signUp.jpg" alt="signUpPage" width="200"/>
